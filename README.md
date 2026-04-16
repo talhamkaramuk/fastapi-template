@@ -173,9 +173,3 @@ Yeni bir modül eklerken:
 4. service ekle
 5. router bağla
 6. migration oluştur
-
----
-
-## 📄 Lisans
-
-İsteğe bağlı olarak eklenebilir.
