@@ -141,6 +141,14 @@ Proje katmanlı mimari kullanır:
 
 ## 🔄 Migration (Alembic)
 
+Alembic init (root klasörde):
+
+```bash
+alembic init alembic
+```
+
+`alembic.ini` ve `env.py` dosyalarında gerekli yerleri düzenle.
+
 Yeni migration oluştur:
 
 ```bash
